@@ -1,0 +1,52 @@
+h1{
+    text-align:center;
+}
+
+#first{
+    color:red;
+}
+
+#second{
+    color:blue;
+}
+
+#third{
+    color:green;
+}
+
+#fourth{
+    font-size: 30px;
+}
+
+#fifth{
+    font-size: 10px;
+}
+
+#sixth{
+    text-align: center;
+}
+
+#seventh{
+   font-weight: bold;
+}
+
+#eighth{
+    font-family: cursive;
+}
+
+#ninth{
+    font-size: 20px;
+    color: orange;
+    font-weight: bold;
+}
+
+.styledFont{
+    color: green;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+img{
+    border-width: 10px;
+    border-style: solid;
+    border-color: yellow;
+}
